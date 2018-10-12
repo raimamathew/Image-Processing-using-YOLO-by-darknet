@@ -8,7 +8,7 @@ Earlier detection frameworks, looked at different parts of the image multiple ti
 
 YOLO takes entirely different approach. It looks at the entire image only once and goes through the network once and detects objects. Hence the name. It is very fast. That’s the reason it has got so popular. 
 
-OpenCV dnn module
+OPENCV DNN MODULE
 
 DNN (Deep Neural Network) module was initially part of opencv_contrib repo. It has been moved to the master branch of opencv repo last year, giving users the ability to run inference on pre-trained deep learning models within OpenCV itself.
 
